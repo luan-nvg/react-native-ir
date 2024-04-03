@@ -1,11 +1,11 @@
 {
   "name": "react-native-ir",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A react-native interface for using the Infrared (IR) transmitter in Android smartphones",
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielr18/react-native-ir.git"
+    "url": "https://github.com/luan-nvg/react-native-ir.git"
   },
   "keywords": [
     "react-native",
@@ -15,7 +15,7 @@
     "ir-emitter",
     "ir-blaster"
   ],
-  "author": "Daniel Reinoso <danielreinoso1807@gmail.com> (http://kloc.io)",
+  "author": "Luan Santana <luannnvg@gmail.com> (http://kloc.io)",
   "license": "MIT",
   "rnpm": {
     "commands": {
