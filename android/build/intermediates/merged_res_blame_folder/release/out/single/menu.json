@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.danielr18.irmanager.react-native-ir-merged_res-20:/menu/example_menu2.xml",
+        "source": "com.danielr18.irmanager.react-native-ir-core-1.7.0-3:/menu/example_menu2.xml"
+    },
+    {
+        "merged": "com.danielr18.irmanager.react-native-ir-merged_res-20:/menu/example_menu.xml",
+        "source": "com.danielr18.irmanager.react-native-ir-core-1.7.0-3:/menu/example_menu.xml"
+    }
+]

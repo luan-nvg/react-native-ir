@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml:2:1-4:12
+INJECTED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml:2:1-4:12
+INJECTED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml:2:1-4:12
+	package
+		ADDED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml:2:70-103
+		INJECTED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.TRANSMIT_IR
+ADDED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml:3:5-70
+	android:name
+		ADDED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml:3:22-67
+uses-sdk
+INJECTED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml
+INJECTED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml
+INJECTED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml
+INJECTED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml
+		ADDED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml
+		ADDED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/luanscerqueira/Projects/redgtech-app/node_modules/react-native-ir/android/src/main/AndroidManifest.xml
